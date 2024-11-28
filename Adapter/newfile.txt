@@ -1,0 +1,6 @@
+#Written by Properties.
+#Thu Nov 28 13:28:27 JST 2024
+TEST=
+Width=1024
+depth=32
+height=512
